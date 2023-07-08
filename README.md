@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/img/binary-code-not-css.svg" align="center" style="width: 100%" />
+<img src="assets/img/binary-code-not-css.svg" align="center" style="width: 20%" />
 </div>
 
 # <div align="center">< I'm José Sérgio /> 👋</div>
@@ -62,14 +62,6 @@
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEscappe&hide_border=true&layout=compact" align="center" /></div>
-
-<br/>
-
-## Recent Blog Posts
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 <br/>
 
