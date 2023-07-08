@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/img/binary-code-not-css.svg" align="center" style="width: 20%" />
+<img src="assets/img/binary-code-not-css.svg" align="center" style="width: 40%" />
 </div>
 
 # <div align="center">< I'm José Sérgio /> 👋</div>
